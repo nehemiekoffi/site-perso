@@ -26,13 +26,13 @@
         </UTooltip>
       </div>
 
-      <div class="flex items-center justify-center gap-x-3 mt-8">
-        <button class="bg-white text-black font-medium flex items-center justify-center w-72 h-11 rounded-lg">
+      <div class="flex items-center justify-center gap-x-3 mt-10">
+        <button class="bg-white text-black font-medium flex items-center justify-center w-64 h-11 rounded-lg">
           Send an email
         </button>
         <span class="font-medium text-sm text-lg text-neutral-600">or</span>
         <button
-          class="bg-neutral-800 border border-neutral-700 text-white font-medium flex items-center justify-center w-72 h-11 rounded-lg">
+          class="bg-neutral-800 border border-neutral-700 text-white font-medium flex items-center justify-center w-64 h-11 rounded-lg">
           Leave a message
         </button>
       </div>
@@ -52,7 +52,8 @@
             eligendi sequi? Fuga dignissimos cum eveniet voluptatum neque nostrum, quisquam distinctio veniam incidunt
             vitae. Beatae, inventore!
           </p>
-          <button class="bg-[#282828] hover:bg-[#3e3e3e] w-full h-11 text-white flex items-center justify-center gap-x-2 rounded-lg border border-[#2e2e2e] mt-5">
+          <button
+            class="bg-[#282828] hover:bg-[#3e3e3e] w-full h-11 text-white flex items-center justify-center gap-x-2 rounded-lg border border-[#2e2e2e] mt-5">
             Know more
             <UIcon name="i-mdi-arrow-right" />
           </button>
@@ -80,7 +81,8 @@
               <UIcon name="i-mdi-arrow-top-right" class="mt-1" />
             </button>
           </div>
-          <button class="bg-[#282828] hover:bg-[#3e3e3e] w-full h-11 text-white flex items-center justify-center gap-x-2 rounded-lg border border-[#2e2e2e] mt-5">
+          <button
+            class="bg-[#282828] hover:bg-[#3e3e3e] w-full h-11 text-white flex items-center justify-center gap-x-2 rounded-lg border border-[#2e2e2e] mt-5">
             View all
             <UIcon name="i-mdi-arrow-right" />
           </button>
@@ -88,9 +90,11 @@
       </div>
     </div>
 
-    <div class="w-7/12 mx-auto pt-16 flex justify-center">
-      <div class="w-8/12">
-        <h3 class="text-2xl text-white text-center font-medium">You have a project ? Let's talk about it</h3>
+    <div class="w-7/12 mx-auto pt-20 flex justify-center">
+      <div class="w-full mt-5">
+        <h1 class="text-5xl text-center text-white font-semibold">Let's talk about your new idea</h1>
+        <p class="text-center text-white w-7/12 mx-auto mt-8">If you have an idea or a project and you a help, just leave me
+          a message or book a 30 minutes call</p>
       </div>
     </div>
   </div>
