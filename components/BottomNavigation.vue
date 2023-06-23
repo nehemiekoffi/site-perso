@@ -6,10 +6,10 @@
         :class="route.name === 'index' ? 'w-1/4 h-8 bg-black text-sm text-white font-semibold rounded-full flex items-center justify-center' : 'w-1/4 h-8 bg-neutral-00 text-sm text-neutral-400 font-semibold rounded-full flex items-center justify-center'">Home</nuxt-link>
       <nuxt-link to="/about"
         :class="route.name === 'about' ? 'w-1/4 h-8 bg-black text-sm text-white font-semibold rounded-full flex items-center justify-center' : 'w-1/4 h-8 bg-neutral-00 text-sm text-neutral-400 font-semibold rounded-full flex items-center justify-center'">About</nuxt-link>
-      <button
-        :class="route.name === 'work' ? 'w-1/4 h-8 bg-black text-sm text-white font-semibold rounded-full flex items-center justify-center' : 'w-1/4 h-8 bg-neutral-00 text-sm text-neutral-400 font-semibold rounded-full flex items-center justify-center'">Work</button>
-      <button
-        :class="route.name === 'contact' ? 'w-1/4 h-8 bg-black text-sm text-white font-semibold rounded-full flex items-center justify-center' : 'w-1/4 h-8 bg-neutral-00 text-sm text-neutral-400 font-semibold rounded-full flex items-center justify-center'">Contact</button>
+      <nuxt-link to="/work"
+        :class="route.name === 'work' ? 'w-1/4 h-8 bg-black text-sm text-white font-semibold rounded-full flex items-center justify-center' : 'w-1/4 h-8 bg-neutral-00 text-sm text-neutral-400 font-semibold rounded-full flex items-center justify-center'">Work</nuxt-link>
+      <nuxt-link to="/contact"
+        :class="route.name === 'contact' ? 'w-1/4 h-8 bg-black text-sm text-white font-semibold rounded-full flex items-center justify-center' : 'w-1/4 h-8 bg-neutral-00 text-sm text-neutral-400 font-semibold rounded-full flex items-center justify-center'">Contact</nuxt-link>
     </div>
   </div>
 </template>
