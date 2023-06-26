@@ -29,7 +29,7 @@
 
         <div class="mt-16 flex flex flex-col md:flex-row items-center justify-center gap-y-4 md:gap-y-0 md:gap-x-4 pb-10">
           <button class="bg-white w-72 md:w-62 h-12 rounded-full text-black text-center text-sm font-semibold">Book a 30-minutes call</button>
-          <button class="bg-stone-800 w-72 md:w-62 h-12 rounded-full text-white text-center text-sm font-semibold">ad.aimedesire@gmail.com</button>
+          <button class="bg-[#282828] w-72 md:w-62 h-12 rounded-full text-white text-center text-sm font-semibold">ad.aimedesire@gmail.com</button>
           <button class="bg-indigo-500 w-72 md:w-62 h-12 rounded-full text-white text-center text-sm font-semibold">Send a
             message</button>
         </div>

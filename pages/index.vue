@@ -15,15 +15,15 @@
           <p class="text-sm text-zinc-400 text-center font-normal">Available for new opportunities</p>
         </div>
         <div class="flex items-center justify-center gap-x-10 mt-8">
-          <div class="text-neutral-400 text-base sm:text-lg md:text-xl flex items-center justify-center gap-x-1">
+          <div class="text-neutral-400 text-base sm:text-lg md:text-xl font-semibold flex items-center justify-center gap-x-1">
             <UIcon name="i-mdi-twitter" />
             <span>Twitter</span>
           </div>
-          <div class="text-neutral-400 text-base sm:text-lg md:text-xl flex items-center justify-center gap-x-1">
+          <div class="text-neutral-400 text-base sm:text-lg md:text-xl font-semibold flex items-center justify-center gap-x-1">
             <UIcon name="i-mdi-linkedin" />
             <span>Linkedin</span>
           </div>
-          <div class="text-neutral-400 text-base sm:text-lg md:text-xl flex items-center justify-center gap-x-1">
+          <div class="text-neutral-400 text-base sm:text-lg md:text-xl font-semibold flex items-center justify-center gap-x-1">
             <UIcon name="i-mdi-github" />
             <span>Github</span>
           </div>
@@ -33,7 +33,7 @@
           <button
             class="relative w-80 h-12 rounded-full bg-[#282828] text-stone-400 text-center text-sm font-semibold flex items-center justify-center gap-x-2 hover:bg-neutral-700 hover:text-stone-200">
             <UIcon name="i-mdi-laptop-account" class="text-xl" /> Book a 30 minutes call
-            <img src="~/assets/images/art_8.png" alt="artboard" class="absolute -top-2 -right-2 w-6 rotate-12">
+            <!-- <img src="~/assets/images/art_8.png" alt="artboard" class="absolute -top-2 -right-2 w-6 rotate-12"> -->
           </button>
         </div>
       </div>
