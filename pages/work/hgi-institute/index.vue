@@ -12,10 +12,10 @@
           </div>
         </nuxt-link>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-bold mt-5">
-          EconoNote
+          Higher Ground International Institute
         </h1>
         <p class="text-center text-stone-500 text-lg font-semibold mt-5">
-          Expense tracking app
+          Showcase site for English coach Joel
         </p>
 
         <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10"></div>
@@ -23,15 +23,19 @@
         <div class="w-full lg:w-9/12 mx-auto rounded-2xl mt-10">
           <h3 class="text-3xl text-white font-semibold">Overview</h3>
           <p class="mt-3">
-            Econonote is an expense tracking application that I created for my own needs. After trying out other expense tracking applications that already existed, I couldn't find the one that suited me in terms of both simplicity and functionality. So I decided to create my own application that would meet my own requirements and have only the unique features I would need to track my expenses.
+            The aim of this project was to make the activities and training of
+            Mr Joel, an English coach, visible on the web, and thus enable him
+            to find new people to coach. This will be achieved through the
+            creation of his website and blog.
           </p>
 
           <h3 class="text-3xl text-white font-semibold mt-8">Stack</h3>
           <p class="mt-3">
-            For this project I used javascript technologies for the frontend and the backend.
+            For this project I used javascript technologies and Wordpress.
           </p>
           <ul class="mt-3">
-            <li>- React Native</li>
+            <li>- Wordpress</li>
+            <li>- NuxtJs</li>
             <li>- Tailwindcss</li>
             <li>- Nestjs</li>
             <li>- MongoDB</li>

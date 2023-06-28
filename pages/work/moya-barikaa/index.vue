@@ -12,10 +12,10 @@
           </div>
         </nuxt-link>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-bold mt-5">
-          EconoNote
+          Moya - Barikaa
         </h1>
         <p class="text-center text-stone-500 text-lg font-semibold mt-5">
-          Expense tracking app
+          Discover ads and find the best tradesman for your work
         </p>
 
         <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10"></div>
@@ -23,18 +23,20 @@
         <div class="w-full lg:w-9/12 mx-auto rounded-2xl mt-10">
           <h3 class="text-3xl text-white font-semibold">Overview</h3>
           <p class="mt-3">
-            Econonote is an expense tracking application that I created for my own needs. After trying out other expense tracking applications that already existed, I couldn't find the one that suited me in terms of both simplicity and functionality. So I decided to create my own application that would meet my own requirements and have only the unique features I would need to track my expenses.
+            The Moya application, which today is known as Barikaa, is an
+            advertisement publication application for people looking for good
+            offers in various fields of activity. It also enables you to find
+            workers for your various jobs. For this project, my task was to
+            create the application's web interface so that users could use the
+            platform even without the mobile application.
           </p>
 
           <h3 class="text-3xl text-white font-semibold mt-8">Stack</h3>
-          <p class="mt-3">
-            For this project I used javascript technologies for the frontend and the backend.
-          </p>
+          <p class="mt-3">For this project I used javascript technologies.</p>
           <ul class="mt-3">
-            <li>- React Native</li>
+            <li>- Vuejs</li>
+            <li>- NuxtJs</li>
             <li>- Tailwindcss</li>
-            <li>- Nestjs</li>
-            <li>- MongoDB</li>
           </ul>
         </div>
       </div>

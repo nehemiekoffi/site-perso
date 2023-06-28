@@ -2,7 +2,7 @@
   <PortfolioLayout>
     <div class="bg-[#0A0A0A] w-full min-h-screen pb-40">
       <div
-        class="relative w-11/12 sm:w-9/12 md:w-7/12 max-w-5xl mx-auto pt-10 pb-"
+        class="relative w-11/12 sm:w-10/12 md:w-9/12 lg:w-7/12 max-w-5xl mx-auto pt-10 pb-"
       >
         <nuxt-link to="/work">
           <div
@@ -12,10 +12,11 @@
           </div>
         </nuxt-link>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-bold mt-5">
-          EconoNote
+          MTN CI subscription portal
         </h1>
         <p class="text-center text-stone-500 text-lg font-semibold mt-5">
-          Expense tracking app
+          Buy or top up your mobile Internet package without leaving your
+          browser
         </p>
 
         <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10"></div>
@@ -23,18 +24,19 @@
         <div class="w-full lg:w-9/12 mx-auto rounded-2xl mt-10">
           <h3 class="text-3xl text-white font-semibold">Overview</h3>
           <p class="mt-3">
-            Econonote is an expense tracking application that I created for my own needs. After trying out other expense tracking applications that already existed, I couldn't find the one that suited me in terms of both simplicity and functionality. So I decided to create my own application that would meet my own requirements and have only the unique features I would need to track my expenses.
+            Carried out on behalf of Skan Technologie, this project involved
+            redesigning the web interface of the MTN Côte d'Ivoire telecoms
+            network's internet subscription portal. Offering users a better
+            experience and greater security when purchasing their internet
+            package.
           </p>
 
           <h3 class="text-3xl text-white font-semibold mt-8">Stack</h3>
-          <p class="mt-3">
-            For this project I used javascript technologies for the frontend and the backend.
-          </p>
+          <p class="mt-3">For this project i use</p>
           <ul class="mt-3">
-            <li>- React Native</li>
+            <li>- Reactjs</li>
             <li>- Tailwindcss</li>
-            <li>- Nestjs</li>
-            <li>- MongoDB</li>
+            <li>- Material ui</li>
           </ul>
         </div>
       </div>
