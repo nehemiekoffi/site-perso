@@ -121,10 +121,7 @@
           </div>
           <div class="w-fit">
             <p class="text-stone-400 font-normal">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatem amet deserunt mollitia sed ut officia minima,
-              architecto libero excepturi pariatur quisquam ea inventore
-              veritatis velit? Similique voluptatum commodi quod repudiandae!
+              This marks the start of my adventure with Skan Technologie as a web application developer, using ReactJS, Vuejs and Wordpress. I participate in the development of new customer applications, but also in the realization of internal company projects.
             </p>
           </div>
         </div>
@@ -137,10 +134,7 @@
           </div>
           <div class="w-fit">
             <p class="text-stone-400 font-normal">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatem amet deserunt mollitia sed ut officia minima,
-              architecto libero excepturi pariatur quisquam ea inventore
-              veritatis velit? Similique voluptatum commodi quod repudiandae!
+              Joined SITC (Southern IT Consulting) as a full-stack developer, helping to develop existing projects as well as participating in the realization and delivery of customer projects. The main technologies used were Angulare, Nestjs and MySQL.
             </p>
           </div>
         </div>
@@ -179,11 +173,17 @@
             class="absolute top-10 right-20 w-14"
           />
 
-          <button
-            class="bg-stone-900 w-80 h-12 rounded-full text-lg sm:text-xl text-white font-bold"
+          <a
+            href="https://notionforms.io/forms/leave-a-message-jzrxto"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            Leave a message
-          </button>
+            <button
+              class="bg-stone-900 w-80 h-12 rounded-full text-lg sm:text-xl text-white font-bold"
+            >
+              Leave a message
+            </button>
+          </a>
         </div>
       </div>
     </div>

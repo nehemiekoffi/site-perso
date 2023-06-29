@@ -19,11 +19,20 @@
           browser
         </p>
 
-        <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10"></div>
+        <a href="http://moninternet.mtn.ci" target="_blank" rel="noopener noreferrer">
+          <div class="text-center text-indigo-400 font-medium mt-5  flex items-center justify-center gap-x-1">
+            view website
+            <UIcon name="i-mdi-arrow-right" class="mt-1" />
+          </div>
+        </a>
+
+        <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10">
+          <img src="~/assets/images/mtn.png" class="w-full h-full object-cover rounded-2xl" />
+        </div>
 
         <div class="w-full lg:w-9/12 mx-auto rounded-2xl mt-10">
           <h3 class="text-3xl text-white font-semibold">Overview</h3>
-          <p class="mt-3">
+          <p class="mt-3 text-stone-400">
             Carried out on behalf of Skan Technologie, this project involved
             redesigning the web interface of the MTN Côte d'Ivoire telecoms
             network's internet subscription portal. Offering users a better
@@ -32,8 +41,8 @@
           </p>
 
           <h3 class="text-3xl text-white font-semibold mt-8">Stack</h3>
-          <p class="mt-3">For this project i use</p>
-          <ul class="mt-3">
+          <p class="mt-3 text-stone-400">For this project i use</p>
+          <ul class="mt-3 text-stone-400">
             <li>- Reactjs</li>
             <li>- Tailwindcss</li>
             <li>- Material ui</li>

@@ -18,11 +18,13 @@
           Corporate equipment management application
         </p>
 
-        <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10"></div>
+        <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10">
+          <img src="~/assets/images/matos.png" class="w-full h-full object-cover rounded-2xl" />
+        </div>
 
         <div class="w-full lg:w-9/12 mx-auto rounded-2xl mt-10">
           <h3 class="text-3xl text-white font-semibold">Overview</h3>
-          <p class="mt-3">
+          <p class="mt-3 text-stone-400">
             Faced with difficulties in managing its IT equipment and hardware,
             Souther IT Consulting needed a tool that would enable it to manage
             and track this equipment. Hence the creation of Matos, a web-based
@@ -32,8 +34,8 @@
           </p>
 
           <h3 class="text-3xl text-white font-semibold mt-8">Stack</h3>
-          <p class="mt-3">For this project I used javascript technologies.</p>
-          <ul class="mt-3">
+          <p class="mt-3 text-stone-400">For this project I used javascript technologies.</p>
+          <ul class="mt-3 text-stone-400">
             <li>- Angular</li>
             <li>- Tailwindcss</li>
             <li>- Nestjs</li>

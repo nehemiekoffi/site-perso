@@ -80,7 +80,7 @@
               ad.aimedesire@gmail.com
             </button>
           </a>
-          <a href="http://" target="_blank" rel="noopener noreferrer">
+          <a href="https://notionforms.io/forms/leave-a-message-jzrxto" target="_blank" rel="noopener noreferrer">
             <button
               class="bg-indigo-500 w-72 md:w-62 h-12 rounded-full text-white text-center text-sm font-semibold"
             >

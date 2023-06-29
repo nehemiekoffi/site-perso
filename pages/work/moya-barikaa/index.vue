@@ -18,11 +18,20 @@
           Discover ads and find the best tradesman for your work
         </p>
 
-        <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10"></div>
+        <a href="https://barikaa.ci" target="_blank" rel="noopener noreferrer">
+          <div class="text-center text-indigo-400 font-medium mt-5  flex items-center justify-center gap-x-1">
+            view website
+            <UIcon name="i-mdi-arrow-right" class="mt-1" />
+          </div>
+        </a>
+
+        <div class="w-full h-40 rounded-2xl bg-orange-500 mt-10">
+          <img src="~/assets/images/barikaa.png" class="w-full h-full object-cover rounded-2xl" />
+        </div>
 
         <div class="w-full lg:w-9/12 mx-auto rounded-2xl mt-10">
           <h3 class="text-3xl text-white font-semibold">Overview</h3>
-          <p class="mt-3">
+          <p class="mt-3 text-stone-400">
             The Moya application, which today is known as Barikaa, is an
             advertisement publication application for people looking for good
             offers in various fields of activity. It also enables you to find
@@ -32,8 +41,8 @@
           </p>
 
           <h3 class="text-3xl text-white font-semibold mt-8">Stack</h3>
-          <p class="mt-3">For this project I used javascript technologies.</p>
-          <ul class="mt-3">
+          <p class="mt-3 text-stone-400">For this project I used javascript technologies.</p>
+          <ul class="mt-3 text-stone-400">
             <li>- Vuejs</li>
             <li>- NuxtJs</li>
             <li>- Tailwindcss</li>

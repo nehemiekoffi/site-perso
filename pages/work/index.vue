@@ -23,7 +23,7 @@
               >
                 Side project
               </div>
-              <h3 class="text-2xl text-white font-medium">EconoNote</h3>
+              <h3 class="text-xl sm:text-2xl text-white font-medium">EconoNote</h3>
               <p class="text-stone-400 text-sm mt-px">
                 Expense tracking application
               </p>
@@ -43,7 +43,7 @@
             >
               Soon
             </div>
-            <h3 class="text-2xl text-white font-medium">My AI sensei</h3>
+            <h3 class="text-xl sm:text-2xl text-white font-medium">My AI sensei</h3>
             <p class="text-stone-400 text-sm mt-px">
               A new way to master japanese with the power of AI
             </p>
@@ -58,7 +58,7 @@
               >
                 Client project
               </div>
-              <h3 class="text-2xl text-white font-medium">
+              <h3 class="text-xl sm:text-2xl text-white font-medium">
                 Higher Ground International Institute
               </h3>
               <p class="text-stone-400 text-sm mt-px">
@@ -76,7 +76,7 @@
               >
                 Client project
               </div>
-              <h3 class="text-2xl text-white font-medium">
+              <h3 class="text-xl sm:text-2xl text-white font-medium">
                 Moya - now Barikaa
               </h3>
               <p class="text-stone-400 text-sm mt-px">
@@ -95,7 +95,7 @@
               >
                 Client project
               </div>
-              <h3 class="text-2xl text-white font-medium">
+              <h3 class="text-xl sm:text-2xl text-white font-medium">
                 MTN CI subscription portal
               </h3>
               <p class="text-stone-400 text-sm mt-px">
@@ -114,7 +114,7 @@
               >
                 Client project
               </div>
-              <h3 class="text-2xl text-white font-medium">Matos</h3>
+              <h3 class="text-xl sm:text-2xl text-white font-medium">Matos</h3>
               <p class="text-stone-400 text-sm mt-px">
                 Corporate equipment management application
               </p>
