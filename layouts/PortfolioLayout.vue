@@ -1,5 +1,10 @@
 <template>
   <div>
+    <SeoKit />
+    <!-- a. Generates browser screenshots for every page -->
+    <OgImageScreenshot />
+    <!-- b. Generate satori images for every page (uses the default template) -->
+    <OgImageStatic />
     <slot />
     <BottomNavigation />
   </div>
