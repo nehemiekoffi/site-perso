@@ -121,7 +121,7 @@
           </div>
           <div class="w-fit">
             <p class="text-stone-400 font-normal">
-              This marks the start of my adventure with Skan Technologie as a web application developer, using ReactJS, Vuejs and Wordpress. I participate in the development of new customer applications, but also in the realization of internal company projects.
+              This marks the start of my adventure with Skan Technologie as a web developer, using ReactJS, Vuejs and Wordpress. I participate in the development of new customer applications, but also in the realization of internal projects.
             </p>
           </div>
         </div>
@@ -134,7 +134,7 @@
           </div>
           <div class="w-fit">
             <p class="text-stone-400 font-normal">
-              Joined SITC (Southern IT Consulting) as a full-stack developer, helping to develop existing projects as well as participating in the realization and delivery of customer projects. The main technologies used were Angulare, Nestjs and MySQL.
+              I joined SITC (Southern IT Consulting) as a full-stack developer, helping to develop existing projects as well as participating in the realization and delivery of customer projects. The main technologies used were Angulare, Nestjs and MySQL.
             </p>
           </div>
         </div>

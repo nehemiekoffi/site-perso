@@ -285,6 +285,17 @@
                   class="w-16 h-16 sm:w-20 sm:h-20 max-w-xs overflow-hidden rounded-2xl shadow-md bg-[#1a1a1a] hover:shadow-xl transition-shadow duration-300 ease-in-out flex items-center justify-center"
                 >
                   <img
+                    src="~/assets/images/notion.svg"
+                    alt="artboard"
+                    class="w-10 mx-auto object-cover"
+                  />
+                </div>
+              </div>
+              <div class="inline-block px-1 sm:px-3">
+                <div
+                  class="w-16 h-16 sm:w-20 sm:h-20 max-w-xs overflow-hidden rounded-2xl shadow-md bg-[#1a1a1a] hover:shadow-xl transition-shadow duration-300 ease-in-out flex items-center justify-center"
+                >
+                  <img
                     src="~/assets/images/figma.svg"
                     alt="artboard"
                     class="w-7 mx-auto object-cover"
@@ -388,7 +399,7 @@
                 class="bg-[#1a1a1a] w-full h-fit rounded-2xl border border-stone-800 px-5 py-3 mt-3"
               >
                 <p class="text-lg text-white font-normal">
-                  Javascript developer formation
+                  Javascript developer
                 </p>
                 <p class="text-base text-stone-500 font-normal mt-1">
                   NaN Digital Academy
