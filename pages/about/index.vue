@@ -22,17 +22,19 @@
               The story
             </h3>
             <p class="text-stone-400 mt-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quasi
-              laborum dolor fugit voluptatum minima soluta consequuntur
-              consectetur quia, vel culpa nesciunt natus ipsam deleniti
-              necessitatibus corrupti reprehenderit, voluptatibus quas.
+              My journey as a developer begins at the end of 2019, with my
+              discovery of programming and its possibilities. Possibilities that
+              I set out to explore toug by learning the different programming
+              languages I saw most published on the internet.
             </p>
             <br />
             <p class="text-stone-400">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quasi
-              laborum dolor fugit voluptatum minima soluta consequuntur
-              consectetur quia, vel culpa nesciunt natus ipsam deleniti
-              necessitatibus corrupti reprehenderit, voluptatibus quas.
+              After learning a bit of java, php, python, not forgetting the
+              famous html and css, I finally decided to concentrate fully on
+              javascript.After learning a bit of java, php, python, not
+              forgetting the famous html and css, I finally decided to
+              concentrate fully on javascript for its ability to allow me to
+              develop my own front and back-end applications.
             </p>
             <br />
             <p class="text-stone-400">
