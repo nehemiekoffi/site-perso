@@ -18,7 +18,7 @@
           Expense tracking app
         </p>
 
-        <a href="https://econonote.netlify.app" target="_blank" rel="noopener noreferrer">
+        <a href="https://econonote.aimedesire.com" target="_blank" rel="noopener noreferrer">
           <div class="text-center text-indigo-400 font-medium mt-5  flex items-center justify-center gap-x-1">
             view website
             <UIcon name="i-mdi-arrow-right" class="mt-1" />
