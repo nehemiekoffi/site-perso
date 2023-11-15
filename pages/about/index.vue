@@ -8,7 +8,7 @@
         </h1>
         <div class="flex flex-col md:flex-row items-start gap-x-4 mt-20">
           <div class="w-full md:w-1/3 lg:w-1/2">
-            <img src="~/assets/images/photo3.jpeg" alt="artboard"
+            <img src="~/assets/images/MOI_2.jpeg" alt="artboard"
               class="w-72 md:w-full lg:w-8/12 mx-auto h- object-cover object-bottom rounded-2xl -mt-5" />
           </div>
           <div class="w-full md:w-2/3 lg:w-1/2 mt-16 md:mt-0">

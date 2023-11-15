@@ -3,7 +3,7 @@
     <div class="bg-[#0A0A0A] w-full min-h-screen pb-40">
       <div class="w-11/12 sm:w-9/12 md:w-7/12 mx-auto pt-16">
         <div class="relative w-44 h-56 mx-auto h-24 rounded-xl border border-stone-600 p-1">
-          <img src="~/assets/images/profil.jpg" alt="artboard" class="w-full h-full object-cover rounded-xl" />
+          <img src="~/assets/images/MOI_3.jpeg" alt="artboard" class="w-full h-full object-contain rounded-lg" />
         </div>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-extrabold mt-10">
           Adams Aimé-Désiré

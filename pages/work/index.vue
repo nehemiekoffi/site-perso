@@ -41,11 +41,11 @@
             <div
               class="absolute right-24 top-2 bg-red-500 text-black text-xs font-semibold px-2 py-1 rounded-md"
             >
-              Soon
+              Coming soon
             </div>
-            <h3 class="text-xl sm:text-2xl text-white font-medium">My AI sensei</h3>
+            <h3 class="text-xl sm:text-2xl text-white font-medium">Wordklang</h3>
             <p class="text-stone-400 text-sm mt-px">
-              A new way to master japanese with the power of AI
+              A web app to learn japanese grammar and words
             </p>
           </div>
 
@@ -105,7 +105,7 @@
             </div>
           </nuxt-link>
 
-          <nuxt-link to="/work/matos">
+          <a href="https://ediqia.com/" target="_blank">
             <div
               class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8"
             >
@@ -114,12 +114,12 @@
               >
                 Client project
               </div>
-              <h3 class="text-xl sm:text-2xl text-white font-medium">Matos</h3>
+              <h3 class="text-xl sm:text-2xl text-white font-medium">Ediqia</h3>
               <p class="text-stone-400 text-sm mt-px">
-                Corporate equipment management application
+                Manage your business, customers, inventory and more
               </p>
             </div>
-          </nuxt-link>
+          </a>
         </div>
       </div>
     </div>
