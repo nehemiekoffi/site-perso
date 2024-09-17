@@ -46,7 +46,7 @@
         </div>
 
         <div class="md:w-96 mx-auto mt-10 flex justify-center">
-          <a href="https://calendly.com/aime-desire/quick-chat" target="_blank" rel="noopener noreferrer">
+          <a href="https://calendly.com/nehemiekoffi/30min" target="_blank" rel="noopener noreferrer">
             <button
               class="relative w-80 h-12 rounded-full bg-[#282828] text-stone-400 text-center text-sm font-semibold flex items-center justify-center gap-x-2 hover:bg-neutral-700 hover:text-stone-200">
               <UIcon name="i-mdi-laptop-account" class="text-xl" /> Book a 30
@@ -123,9 +123,9 @@
         </h2>
 
         <div class="relative mt-14 w-full flex flex-col items-center justify-center gap-y-2">
-          <a href="mailto:ad.aimedesire@gmail.com">
+          <a href="mailto:nehemiekoffi@gmail.com">
             <button class="bg-indigo-500 w-80 h-12 rounded-full text-lg sm:text-xl text-white font-bold">
-              ad.aimedesire@gmail.com
+              nehemiekoffi@gmail.com
             </button>
           </a>
 
@@ -133,9 +133,9 @@
 
           <img src="~/assets/images/art_7.png" alt="artboard" class="absolute top-10 right-20 w-14" />
 
-          <a href="https://notionforms.io/forms/leave-a-message-jzrxto" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/+2250556987000" target="_blank" rel="noopener noreferrer">
             <button class="bg-stone-900 w-80 h-12 rounded-full text-lg sm:text-xl text-white font-bold">
-              Leave a message
+              Send a message
             </button>
           </a>
         </div>
