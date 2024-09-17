@@ -6,10 +6,10 @@
           <img src="~/assets/images/MOI_3.jpeg" alt="artboard" class="w-full h-full object-contain rounded-lg" />
         </div>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-extrabold mt-10">
-          Adams Aimé-Désiré
+          Nehemie KOFFI
         </h1>
         <h1 class="text-lg sm:text-xl text-white text-center font-semibold mt-2">
-          Javascript developer
+          Fullstack Developer / Product Designer / Life Coach
         </h1>
         <div class="flex items-center justify-center gap-x-2 mt-4">
           <div class="w-3 h-3 rounded-full border border-green-500 flex items-center justify-center">
@@ -57,7 +57,7 @@
       <div class="relative w-11/12 sm:w-[600px] mx-auto pt-24 px-2 sm:px-10 md:px-0">
         <h3 class="text-lg text-white font-bold">About me</h3>
         <p class="text-stone-400 font-normal mt-5">
-          I'm Aimé-Désiré, a passionate and experienced javascript developer,
+          I'm Aimé-Désiré, a passionate and experienced Fullstack Developer / Product Designer / Life Coach,
           cat lover, AI enthusiast based in Abidjan. With over 3 years of
           expertise in the field, I have dedicated myself to creating
           exceptional user interfaces that blend functionality and aesthetics
@@ -142,8 +142,8 @@
 import PortfolioLayout from "~/layouts/PortfolioLayout.vue";
 
 useSeoMeta({
-  title: 'Adams Aimé-Désiré - Developer javascript',
-  description: 'I\'m a passionate and experienced javascript developer, cat lover, AI enthusiast based in Abidjan',
+  title: 'Nehemie KOFFI - Developer javascript',
+  description: 'I\'m a passionate and experienced Fullstack Developer / Product Designer / Life Coach, cat lover, AI enthusiast based in Abidjan',
   // reactive example
   // ogImage: () => someData.value?.image
 })

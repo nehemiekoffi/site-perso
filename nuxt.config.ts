@@ -18,9 +18,9 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       siteUrl: process.env.NUXT_PUBLIC_SITE_URL || "https://aimedesire.com",
-      siteName: "Adams Aimé-Désiré - Javascript developer",
+      siteName: "Nehemie KOFFI - Welcome",
       siteDescription:
-        "I'm a passionate and experienced javascript developer, cat lover, AI enthusiast based in Abidjan",
+        "I'm a passionate and experienced Fullstack Developer / Product Designer / Life Coach, cat lover, AI enthusiast based in Abidjan",
       language: "en-US", // prefer more explicit language codes like `en-AU` over `en`
     },
   },

@@ -249,7 +249,7 @@
               </p>
               <div class="bg-[#1a1a1a] w-full h-fit rounded-2xl border border-stone-800 px-5 py-3 mt-3">
                 <p class="text-lg text-white font-normal">
-                  Javascript developer
+                  Fullstack Developer / Product Designer / Life Coach
                 </p>
                 <p class="text-base text-stone-500 font-normal mt-1">
                   NaN Digital Academy
