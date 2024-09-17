@@ -35,7 +35,8 @@
             </p>
             <br />
             <p class="text-stone-400">
-              Currently, I'm a front-end developer at Skan Technologie, but the journey is just beginning and I'm planning
+              Currently, I'm a front-end developer at Skan Technologie, but the journey is just beginning and I'm
+              planning
               to launch my own saas projects and become my own boss.
             </p>
           </div>
@@ -325,9 +326,10 @@
             If you have a project to develop or an idea still in the pipeline,
             please contact me and we can get it moving quickly.
           </p>
-          <a href="https://notionforms.io/forms/leave-a-message-jzrxto" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/+2250556987000" target="_blank" rel="noopener noreferrer">
             <div class="mt-10 flex justify-center">
-              <button class="bg-indigo-500 w-80 h-12 rounded-full text-white text-center sm:text-lg md:text-xl font-bold">
+              <button
+                class="bg-indigo-500 w-80 h-12 rounded-full text-white text-center sm:text-lg md:text-xl font-bold">
                 Send a message
               </button>
             </div>
