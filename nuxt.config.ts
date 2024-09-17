@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   extends: ["nuxt-seo-kit"],
   runtimeConfig: {
     public: {
-      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || "https://aimedesire.com",
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || "https://nehemiekoffi.com",
       siteName: "Nehemie KOFFI - Welcome",
       siteDescription:
         "I'm a passionate and experienced Fullstack Developer / Product Designer / Life Coach, cat lover, AI enthusiast based in Abidjan",
