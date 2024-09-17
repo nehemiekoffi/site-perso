@@ -2,8 +2,10 @@
   <PortfolioLayout>
     <div class="bg-[#0A0A0A] w-full min-h-screen pb-40">
       <div class="w-11/12 sm:w-9/12 md:w-7/12 mx-auto pt-16">
-        <div class="relative w-44 h-56 mx-auto h-24 rounded-xl border border-stone-600 p-1">
-          <img src="~/assets/images/MOI_3.jpeg" alt="artboard" class="w-full h-full object-contain rounded-lg" />
+        <div class="relative w-44 h-44 mx-auto h-24 rounded-xl border border-stone-600 p-1">
+          <img
+            src="https://media.licdn.com/dms/image/v2/D4E03AQG1ECTur4E63A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1664353503671?e=1732147200&v=beta&t=SkQecrKNv3w-wpjE0sY5bV6pHaVDUEC1JnG0he1IliA"
+            alt="artboard" class="w-full h-full object-contain rounded-lg" />
         </div>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-extrabold mt-10">
           Nehemie KOFFI
@@ -85,7 +87,9 @@
           </div>
           <div class="w-fit">
             <p class="text-stone-400 font-normal">
-              This marks the start of my adventure with Skan Technologie as a web developer, using ReactJS, Vuejs and Wordpress. I participate in the development of new customer applications, but also in the realization of internal projects.
+              This marks the start of my adventure with Skan Technologie as a web developer, using ReactJS, Vuejs and
+              Wordpress. I participate in the development of new customer applications, but also in the realization of
+              internal projects.
             </p>
           </div>
         </div>
@@ -98,7 +102,9 @@
           </div>
           <div class="w-fit">
             <p class="text-stone-400 font-normal">
-              I joined SITC (Southern IT Consulting) as a full-stack developer, helping to develop existing projects as well as participating in the realization and delivery of customer projects. The main technologies used were Angulare, Nestjs and MySQL.
+              I joined SITC (Southern IT Consulting) as a full-stack developer, helping to develop existing projects as
+              well as participating in the realization and delivery of customer projects. The main technologies used
+              were Angulare, Nestjs and MySQL.
             </p>
           </div>
         </div>
