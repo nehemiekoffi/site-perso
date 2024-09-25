@@ -52,8 +52,10 @@
       <div class="relative w-11/12 sm:w-[600px] mx-auto pt-24 px-2 sm:px-10 md:px-0">
         <h3 class="text-lg text-white font-bold">About me</h3>
         <p class="text-stone-400 font-normal mt-5">
-          I am a Senior Software Engineer with over a decade of experience in building innovative and scalable
-          solutions. With a strong background in full-stack development, I’ve had the opportunity to work across various
+          I am Néhemie KOFFI, a Senior Software Engineer, Product Designer, AI enthusiast based in Abidjan with over a
+          decade of experience in building innovative and scalable solutions. With a strong background in full-stack
+          development, I’ve had the
+          opportunity to work across various
           industries, from finance to telecommunications, using cutting-edge technologies such as NodeJS, Flutter, AWS,
           and VueJS. My passion for creating user-friendly, stable, and impactful products drives me to continuously
           refine my skills in both software development and design. I am deeply invested in problem-solving and enjoy
