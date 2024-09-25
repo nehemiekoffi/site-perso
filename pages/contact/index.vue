@@ -13,19 +13,13 @@
         </p>
 
         <div class="flex items-center justify-center gap-x-10 mt-8">
-          <a href="https://twitter.com/dams9ix" target="_blank" rel="noopener noreferrer">
-            <div class="text-neutral-200 text-base md:text-lg font-semibold flex items-center justify-center gap-x-1">
-              <UIcon name="i-mdi-twitter" />
-              <span>Twitter</span>
-            </div>
-          </a>
-          <a href="https://linkedin.com/in/aimedesireofficial" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/nehemiekoffi" target="_blank" rel="noopener noreferrer">
             <div class="text-neutral-200 text-base md:text-lg font-semibold flex items-center justify-center gap-x-1">
               <UIcon name="i-mdi-linkedin" />
               <span>Linkedin</span>
             </div>
           </a>
-          <a href="https://github.com/devDams" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/nehemiekoffi" target="_blank" rel="noopener noreferrer">
             <div class="text-neutral-200 text-base md:text-lg font-semibold flex items-center justify-center gap-x-1">
               <UIcon name="i-mdi-github" />
               <span>Github</span>

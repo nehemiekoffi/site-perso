@@ -15,12 +15,9 @@
 
         <div class="w-full mt-20">
           <nuxt-link to="/work/econonote">
-            <div
-              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4"
-            >
+            <div class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4">
               <div
-                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md"
-              >
+                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
                 Side project
               </div>
               <h3 class="text-xl sm:text-2xl text-white font-medium">EconoNote</h3>
@@ -30,17 +27,11 @@
             </div>
           </nuxt-link>
 
-          <div
-            class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8"
-          >
-            <div
-              class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md"
-            >
+          <div class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8">
+            <div class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
               Side project
             </div>
-            <div
-              class="absolute right-24 top-2 bg-red-500 text-black text-xs font-semibold px-2 py-1 rounded-md"
-            >
+            <div class="absolute right-24 top-2 bg-red-500 text-black text-xs font-semibold px-2 py-1 rounded-md">
               Coming soon
             </div>
             <h3 class="text-xl sm:text-2xl text-white font-medium">Wordklang</h3>
@@ -51,11 +42,9 @@
 
           <nuxt-link to="/work/hgi-institute">
             <div
-              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8"
-            >
+              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8">
               <div
-                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md"
-              >
+                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
                 Client project
               </div>
               <h3 class="text-xl sm:text-2xl text-white font-medium">
@@ -69,11 +58,9 @@
 
           <nuxt-link to="/work/moya-barikaa">
             <div
-              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8"
-            >
+              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8">
               <div
-                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md"
-              >
+                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
                 Client project
               </div>
               <h3 class="text-xl sm:text-2xl text-white font-medium">
@@ -88,11 +75,9 @@
 
           <nuxt-link to="/work/subscription-portal">
             <div
-              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8"
-            >
+              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8">
               <div
-                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md"
-              >
+                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
                 Client project
               </div>
               <h3 class="text-xl sm:text-2xl text-white font-medium">
@@ -107,11 +92,9 @@
 
           <a href="https://ediqia.com/" target="_blank">
             <div
-              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8"
-            >
+              class="relative lg:w-8/12 mx-auto h-fit bg-[#0f0f0f] border border-stone-800 rounded-xl px-5 py-4 mt-8">
               <div
-                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md"
-              >
+                class="absolute right-2 top-2 bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
                 Client project
               </div>
               <h3 class="text-xl sm:text-2xl text-white font-medium">Ediqia</h3>

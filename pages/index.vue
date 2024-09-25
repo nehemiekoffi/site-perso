@@ -22,21 +22,14 @@
           </p>
         </div>
         <div class="flex items-center justify-center gap-x-10 mt-8">
-          <a href="https://twitter.com/dams9ix" target="_blank" rel="noopener noreferrer">
-            <div
-              class="text-neutral-400 text-base sm:text-lg md:text-xl font-semibold flex items-center justify-center gap-x-1">
-              <UIcon name="i-mdi-twitter" />
-              <span>Twitter</span>
-            </div>
-          </a>
-          <a href="https://linkedin.com/in/aimedesireofficial" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/nehemiekoffi" target="_blank" rel="noopener noreferrer">
             <div
               class="text-neutral-400 text-base sm:text-lg md:text-xl font-semibold flex items-center justify-center gap-x-1">
               <UIcon name="i-mdi-linkedin" />
               <span>Linkedin</span>
             </div>
           </a>
-          <a href="https://github.com/devDams" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/nehemiekoffi" target="_blank" rel="noopener noreferrer">
             <div
               class="text-neutral-400 text-base sm:text-lg md:text-xl font-semibold flex items-center justify-center gap-x-1">
               <UIcon name="i-mdi-github" />
@@ -59,16 +52,20 @@
       <div class="relative w-11/12 sm:w-[600px] mx-auto pt-24 px-2 sm:px-10 md:px-0">
         <h3 class="text-lg text-white font-bold">About me</h3>
         <p class="text-stone-400 font-normal mt-5">
-          I'm Aimé-Désiré, a passionate and experienced Fullstack Developer / Product Designer / Life Coach,
-          cat lover, AI enthusiast based in Abidjan. With over 3 years of
-          expertise in the field, I have dedicated myself to creating
-          exceptional user interfaces that blend functionality and aesthetics
-          seamlessly.
+          I am a Senior Software Engineer with over a decade of experience in building innovative and scalable
+          solutions. With a strong background in full-stack development, I’ve had the opportunity to work across various
+          industries, from finance to telecommunications, using cutting-edge technologies such as NodeJS, Flutter, AWS,
+          and VueJS. My passion for creating user-friendly, stable, and impactful products drives me to continuously
+          refine my skills in both software development and design. I am deeply invested in problem-solving and enjoy
+          combining technical expertise with creative thinking to deliver solutions that meet both user and business
+          needs.
         </p>
         <p class="text-stone-400 font-normal mt-5">
-          Specialized in web development, I strive to solve complex problems by
-          understanding users' needs, behaviors, and emotions to design elegant,
-          simple solutions that delight people.
+          Beyond coding, I am also a life coach and a strong advocate for personal growth and leadership. I believe that
+          the power of technology goes hand in hand with the power of people, which is why I strive to cultivate a
+          collaborative, growth-oriented mindset in the teams I lead. Whether through mentoring or creating tools that
+          enhance user experiences, I’m always seeking ways to make a meaningful impact in the lives of others while
+          pushing the boundaries of what technology can achieve.
         </p>
 
         <nuxt-link to="/about"
@@ -79,41 +76,86 @@
       </div>
 
       <div class="w-11/12 sm:w-[600px] mx-auto pt-16 px-2 sm:px-10 md:px-0">
-        <h3 class="text-lg text-white font-bold">Work experience</h3>
+        <h3 class="text-lg mb-5 text-white font-bold">Work experience</h3>
 
-        <div class="mt-10 flex items-start justify-between">
-          <div class="w-[220px]">
-            <p class="text-stone-600 text-sm font-semibold">Sep. 2022 - Now</p>
+        <div class="mt-5 flex items-start justify-between">
+          <div class="w-[200px]">
+            <p class="text-stone-600 text-sm font-semibold">Apr. 2024 - Now</p>
           </div>
           <div class="w-fit">
-            <p class="text-stone-400 font-normal">
-              This marks the start of my adventure with Skan Technologie as a web developer, using ReactJS, Vuejs and
-              Wordpress. I participate in the development of new customer applications, but also in the realization of
-              internal projects.
+            <h4 class="text-white">Technical Lead</h4>
+            <div class="inline-block bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
+              Djamo
+            </div>
+            <p class="text-sm text-stone-400 font-normal">
+              Leading the technical team at Djamo, responsible for mobile app development and troubleshooting.
             </p>
           </div>
         </div>
 
         <div class="mt-5 flex items-start justify-between">
-          <div class="w-[220px]">
-            <p class="text-stone-600 text-sm font-semibold">
-              Mar. 2022 - Sep. 2022
-            </p>
+          <div class="w-[200px]">
+            <p class="text-stone-600 text-sm font-semibold">Jul. 2021 - Now</p>
           </div>
           <div class="w-fit">
-            <p class="text-stone-400 font-normal">
-              I joined SITC (Southern IT Consulting) as a full-stack developer, helping to develop existing projects as
-              well as participating in the realization and delivery of customer projects. The main technologies used
-              were Angulare, Nestjs and MySQL.
+            <h4 class="text-white">Senior Software Engineer</h4>
+            <div class="inline-block bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
+              Djamo
+            </div>
+            <p class="text-sm text-stone-400 font-normal">
+              Developing and maintaining Djamo mobile app features, troubleshooting bugs and incidents.
             </p>
           </div>
         </div>
 
-        <nuxt-link to="/about"
-          class="bg-[#282828] hover:bg-[#3e3e3e] w-full h-11 text-white flex items-center justify-center gap-x-2 rounded-lg border border-[#2e2e2e] mt-10">
-          Know more
-          <UIcon name="i-mdi-arrow-right" />
-        </nuxt-link>
+        <div class="mt-5 flex items-start justify-between">
+          <div class="w-[200px]">
+            <p class="text-stone-600 text-sm font-semibold">Jan. 2023 - Jun. 2024</p>
+          </div>
+          <div class="w-fit">
+            <h4 class="text-white">Growth Software Engineer</h4>
+            <div class="inline-block bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
+              Djamo
+            </div>
+            <p class="text-sm text-stone-400 font-normal">
+              Implemented and improved features, user onboarding, user acquisition, tooling, and analytics.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-5 flex items-start justify-between">
+          <div class="w-[200px]">
+            <p class="text-stone-600 text-sm font-semibold">Oct. 2014 - Aug. 2021</p>
+          </div>
+          <div class="w-fit">
+            <h4 class="text-white">Software Engineer</h4>
+            <div class="inline-block bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
+              MTN Côte d'Ivoire
+            </div>
+            <p class="text-sm text-stone-400 font-normal">
+              Designed and developed business web applications, internal employee tools, and mobile apps using Angular,
+              React, ASP.Net.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-5 flex items-start justify-between">
+          <div class="w-[200px]">
+            <p class="text-stone-600 text-sm font-semibold">Nov. 2012 - Oct. 2014</p>
+          </div>
+          <div class="w-fit">
+            <h4 class="text-white">Web Developer</h4>
+            <div class="inline-block bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
+              SODERTOUR-LACS
+            </div>
+            <p class="text-sm text-stone-400 font-normal">
+              Developed and maintained websites for hotels, along with content management platforms using HTML, CSS,
+              Jquery, PHP, WordPress.
+            </p>
+          </div>
+        </div>
+
+
       </div>
 
       <div class="w-11/12 sm:w-[600px] mx-auto pt-24 px-2 sm:px-10 md:px-0">
