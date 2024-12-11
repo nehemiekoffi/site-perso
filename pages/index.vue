@@ -39,7 +39,7 @@
         </div>
 
         <div class="md:w-96 mx-auto mt-10 flex justify-center">
-          <a href="https://calendly.com/nehemiekoffi/30min" target="_blank" rel="noopener noreferrer">
+          <a href="https://cal.com/nehemiekoffi/30min" target="_blank" rel="noopener noreferrer">
             <button
               class="relative w-80 h-12 rounded-full bg-[#282828] text-stone-400 text-center text-sm font-semibold flex items-center justify-center gap-x-2 hover:bg-neutral-700 hover:text-stone-200">
               <UIcon name="i-mdi-laptop-account" class="text-xl" /> Book a 30

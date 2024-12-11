@@ -29,7 +29,7 @@
 
         <div
           class="mt-16 flex flex flex-col md:flex-row items-center justify-center gap-y-4 md:gap-y-0 md:gap-x-4 pb-10">
-          <a href="https://calendly.com/nehemiekoffi/30min" target="_blank" rel="noopener noreferrer">
+          <a href="https://cal.com/nehemiekoffi/30min" target="_blank" rel="noopener noreferrer">
             <button class="bg-white w-72 md:w-62 h-12 rounded-full text-black text-center text-sm font-semibold">
               Book a 30-minutes call
             </button>
