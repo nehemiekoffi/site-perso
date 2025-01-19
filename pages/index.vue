@@ -4,8 +4,8 @@
       <div class="w-11/12 sm:w-9/12 md:w-7/12 mx-auto pt-16">
         <div class="relative w-44 h-44 mx-auto h-24 rounded-xl border border-stone-600 p-1">
           <img
-            src="https://media.licdn.com/dms/image/v2/D4E03AQG1ECTur4E63A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1664353503671?e=1732147200&v=beta&t=SkQecrKNv3w-wpjE0sY5bV6pHaVDUEC1JnG0he1IliA"
-            alt="artboard" class="w-full h-full object-contain rounded-lg" />
+            src="~/assets/images/photo_nehemie.jpeg"
+            alt="artboard" class="w-full h-full object-cover rounded-lg" />
         </div>
         <h1 class="text-4xl sm:text-5xl text-white text-center font-extrabold mt-10">
           Nehemie KOFFI
@@ -79,11 +79,26 @@
       </div>
 
       <div class="w-11/12 sm:w-[600px] mx-auto pt-16 px-2 sm:px-10 md:px-0">
-        <h3 class="text-lg mb-5 text-white font-bold">Work experience</h3>
+        <h3 class="text-lg mb-5 text-white font-bold">Work experiences</h3>
 
         <div class="mt-5 flex items-start justify-between">
-          <div class="w-[200px]">
-            <p class="text-stone-600 text-sm font-semibold">Apr. 2024 - Now</p>
+          <div class="w-[185px]">
+            <p class="text-stone-600 text-sm font-semibold">Dec. 2024 - Now</p>
+          </div>
+          <div class="w-fit">
+            <h4 class="text-white">Chief Technology Officer(CTO)</h4>
+            <div class="inline-block bg-indigo-300 text-black text-xs font-semibold px-2 1.5 py-1 rounded-md">
+              Gocab
+            </div>
+            <p class="text-sm text-stone-400 font-normal">
+              Leading the technical challenges and innovation for Gocab, a mobility fintech startup.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-5 flex items-start justify-between">
+          <div class="w-[210px]">
+            <p class="text-stone-600 text-sm font-semibold">Apr. 2024 - Dec. 2024</p>
           </div>
           <div class="w-fit">
             <h4 class="text-white">Technical Lead</h4>
